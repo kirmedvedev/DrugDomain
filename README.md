@@ -5,6 +5,13 @@ DrugDomain database [1] (http://prodata.swmed.edu/DrugDomain/) reports [ECOD](ht
 DrugDomain database version 1.0, includes 5160 DrugBank molecules associated with 2573 human protein targets
 <img width="700" alt="Fig4" src="https://github.com/user-attachments/assets/64d00a19-1242-490b-8dd7-f853a5f9f5db" />
 
+## Small molecule binding-associated Post Translational Modifications (PTMs) [3]
+We identified PTMs within 10 Å of all atoms of each small molecule bound to all human proteins that have been analyzed and reported through the DrugDomain database. The overall non-redundant number of identified small molecule binding-associated PTMs is 6,131. This includes 30 types of PTMs (such as Phosphorylation, Ubiquitination, etc.) and 47 combinations of PTM and amino acid types (for example Phosphorylation of SER, Acetylation of LYS, etc.)
+
+<img width="900" alt="Fig1" src="https://github.com/user-attachments/assets/3a7b5b86-7546-4cc8-9b22-b0cc1e634229" /> <br>
+<b>Distribution of small molecule binding-associated PTMs types in ECOD architecture groups.</b> <b>(A)</b> Statistics for experimental PDB structures. <b>(B)</b> Statistics for AlphaFill models. Thickness of the lines shows the number of PTMs per ECOD A-group.
+
+
 
 
 ## References
