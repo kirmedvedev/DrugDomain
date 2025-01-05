@@ -1,0 +1,12 @@
+Acetylation	LYS	NZ	YES	ACT	1	CCD_ALY
+Methylation	ARG	NH1;NH2;CD	YES	74C	1	CCD_2MR
+Methylation	ARG	NH1;NH2;CD	YES	74C	1	CCD_AGM
+Methylation	LYS	NZ;N	YES	74C	1	CCD_M3L
+Methylation	LYS	NZ;N	YES	74C	1	CCD_MLZ
+Phosphorylation	SER	OG	YES	PO3	1	CCD_SEP
+Phosphorylation	THR	OG1	YES	PO3	1	CCD_TPO
+Phosphorylation	TYR	OH	YES	PO3	1	CCD_PTR
+Phosphorylation	HIS	N	YES	PO3	1	CCD_NEP
+Phosphorylation	HIS	ND1	YES	PO3	1	CCD_HIP
+S-nitrosylation	CYS	SG	YES	NO	1	CCD_SNC
+S-palmitoylation	CYS	SG	YES	PLM	1	CCD_P1L
