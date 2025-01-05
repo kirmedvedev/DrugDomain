@@ -21,7 +21,8 @@ We identified PTMs within 10 Å of all atoms of each small molecule bound to all
 ```/PTMs/PTMs_pdb_structures_ECOD_domains_with_ligs.txt``` - domain annotations for identified small molecule binding-associated PTMs in PDB structures </br>
 ```/PTMs/PTMs_alphafill_models_ECOD_domains_with_ligs.txt``` - domain annotations for identified small molecule binding-associated PTMs in AlphaFill models </br>
 ```/PTMs/example/*``` - files requires for script ```calculate_rmsd_pdb.py``` </br>
-```Running calculate_rmsd_pdb.py: /path/to/pymol/pymol -c calculate_rmsd_pdb.py``` </br>
+
+<b>Running calculate_rmsd_pdb.py:</b> ```/path/to/pymol/pymol -c calculate_rmsd_pdb.py``` </br>
 
 ## References
 1. Medvedev KE, Schaeffer RD, Grishin NV. DrugDomain: The evolutionary context of drugs and small molecules bound to domains. _Protein Science_. 2024, 33(8):e5116. https://doi.org/10.1002/pro.5116
