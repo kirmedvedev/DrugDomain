@@ -20,7 +20,7 @@ We identified PTMs within 10 Å of all atoms of each small molecule bound to all
 ```/PTMs/PTMs_per_residue_with_ligs.txt``` - list of all identified small molecule binding-associated PTMs
 ```/PTMs/PTMs_pdb_structures_ECOD_domains_with_ligs.txt``` - domain annotations for identified small molecule binding-associated PTMs in PDB structures </br>
 ```/PTMs/PTMs_alphafill_models_ECOD_domains_with_ligs.txt``` - domain annotations for identified small molecule binding-associated PTMs in AlphaFill models </br>
-```/PTMs/example/*``` - files requires for script ```calculate_rmsd_pdb.py``` </br>
+```/PTMs/example/*``` - files that are required for ```calculate_rmsd_pdb.py``` </br>
 
 <b>Running calculate_rmsd_pdb.py:</b> ```/path/to/pymol/pymol -c calculate_rmsd_pdb.py``` </br>
 
