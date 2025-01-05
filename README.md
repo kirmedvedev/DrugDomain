@@ -2,7 +2,7 @@
 DrugDomain database [1] (http://prodata.swmed.edu/DrugDomain/) reports [ECOD](http://prodata.swmed.edu/ecod/index_af2_pdb.php) [2] domains of proteins that are targets for small molecules and drugs from [DrugBank](https://go.drugbank.com/)
 <img width="1085" alt="Screenshot 2024-12-26 at 4 39 22 PM" src="https://github.com/user-attachments/assets/a07a4f41-a121-484c-ad95-a882091fbb2a" />
 
-DrugDomain database version 1.0, includes 5160 DrugBank molecules associated with 2573 human protein targets
+DrugDomain database version 1.1, includes 5160 DrugBank molecules associated with 2573 human protein targets
 <img width="700" alt="Fig4" src="https://github.com/user-attachments/assets/64d00a19-1242-490b-8dd7-f853a5f9f5db" />
 
 ## Small molecule binding-associated Post Translational Modifications (PTMs) [3]
@@ -11,9 +11,19 @@ We identified PTMs within 10 Å of all atoms of each small molecule bound to all
 <img width="900" alt="Fig1" src="https://github.com/user-attachments/assets/3a7b5b86-7546-4cc8-9b22-b0cc1e634229" /> <br>
 <b>Distribution of small molecule binding-associated PTMs types in ECOD architecture groups.</b> <b>(A)</b> Statistics for experimental PDB structures. <b>(B)</b> Statistics for AlphaFill models. Thickness of the lines shows the number of PTMs per ECOD A-group.
 
+## Files
+<b>DrugDomain v1.0 (these files did not change in new version v1.1):</b></br>
+```/DrugDomain_data_for_download/DrugDomain_v1.0_data_PDBs_ECODv291.txt``` - domain annotations for all human proteins that are targets for small molecules and drugs from DrugBank and that have experimentally determined PDB structures
+```/DrugDomain_data_for_download/DrugDomain_v1.0_data_AlphaFill.txt``` - domain annotations for all human proteins that are targets for small molecules and drugs from DrugBank and that DO NOT have experimentally determined PDB structures
 
-
+<b>DrugDomain v1.1:</b></br>
+```/PTMs/PTMs_per_residue_with_ligs.txt``` - list of all identified small molecule binding-associated PTMs
+```/PTMs/PTMs_pdb_structures_ECOD_domains_with_ligs.txt``` - domain annotations for identified small molecule binding-associated PTMs in PDB structures </br>
+```/PTMs/PTMs_alphafill_models_ECOD_domains_with_ligs.txt``` - domain annotations for identified small molecule binding-associated PTMs in AlphaFill models </br>
+```/PTMs/example/*``` - files requires for script ```calculate_rmsd_pdb.py``` </br>
+```Running calculate_rmsd_pdb.py: /path/to/pymol/pymol -c calculate_rmsd_pdb.py``` </br>
 
 ## References
 1. Medvedev KE, Schaeffer RD, Grishin NV. DrugDomain: The evolutionary context of drugs and small molecules bound to domains. _Protein Science_. 2024, 33(8):e5116. https://doi.org/10.1002/pro.5116
-2. Schaeffer RD, Medvedev KE, Andreeva A, Chuguransky S, Lázaro-Pinto B, Zhang J, Cong Q, Bateman A, Grishin NV. ECOD: Integrating classifications of protein domains from experimental and predicted structures. _Nucleic Acids Research_. 2024, gkae1029. https://doi.org/10.1093/nar/gkae1029 
+2. Schaeffer RD, Medvedev KE, Andreeva A, Chuguransky S, Lázaro-Pinto B, Zhang J, Cong Q, Bateman A, Grishin NV. ECOD: Integrating classifications of protein domains from experimental and predicted structures. _Nucleic Acids Research_. 2024, gkae1029. https://doi.org/10.1093/nar/gkae1029
+3. 
