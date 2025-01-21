@@ -26,5 +26,5 @@ We identified PTMs within 10 Å of all atoms of each small molecule bound to all
 
 ## References
 1. Medvedev KE, Schaeffer RD, Grishin NV. DrugDomain: The evolutionary context of drugs and small molecules bound to domains. _Protein Science_. 2024, 33(8):e5116. https://doi.org/10.1002/pro.5116
-2. Schaeffer RD, Medvedev KE, Andreeva A, Chuguransky S, Lázaro-Pinto B, Zhang J, Cong Q, Bateman A, Grishin NV. ECOD: Integrating classifications of protein domains from experimental and predicted structures. _Nucleic Acids Research_. 2024, gkae1029. https://doi.org/10.1093/nar/gkae1029
-3. 
+2. Schaeffer RD, Medvedev KE, Andreeva A, Chuguransky S, Lázaro-Pinto B, Zhang J, Cong Q, Bateman A, Grishin NV. ECOD: Integrating classifications of protein domains from experimental and predicted structures. _Nucleic Acids Research_. 2025, 53(D1): D411-D418. https://doi.org/10.1093/nar/gkae1029
+3. Medvedev KE, Schaeffer RD, Grishin NV. Leveraging AI to Explore Structural Contexts of Post-Translational Modifications in Drug Binding. _bioRxiv_. 2025, 2025.01.14.633078. https://doi.org/10.1101/2025.01.14.633078
