@@ -1,4 +1,5 @@
-# DrugDomain database
+# <img width="130" src="https://github.com/user-attachments/assets/8d20cf82-44ee-4b7e-98c0-248bc83e4fb1" /> DrugDomain database
+
 DrugDomain database [1] (http://prodata.swmed.edu/DrugDomain/) reports [ECOD](http://prodata.swmed.edu/ecod/index_af2_pdb.php) [2] domains of proteins that are targets for small molecules and drugs from [DrugBank](https://go.drugbank.com/)
 <img width="1085" alt="Screenshot 2024-12-26 at 4 39 22 PM" src="https://github.com/user-attachments/assets/a07a4f41-a121-484c-ad95-a882091fbb2a" />
 
