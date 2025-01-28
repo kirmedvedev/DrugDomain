@@ -1,4 +1,17 @@
-# <img width="130" src="https://github.com/user-attachments/assets/8d20cf82-44ee-4b7e-98c0-248bc83e4fb1" /> DrugDomain database
+<p align="center">
+  <img width="180" src="https://github.com/user-attachments/assets/8d20cf82-44ee-4b7e-98c0-248bc83e4fb1" />
+</p>
+<h1 align="center">DrugDomain Database</h1>
+
+<p align="center">
+  <a href="https://doi.org/10.1002/pro.5116">
+    <img src="https://img.shields.io/badge/DrugDomain%20Paper-Protein%20Science-green" />
+  </a>
+</br>
+  <a href="https://doi.org/10.1101/2025.01.14.633078">
+    <img src="https://img.shields.io/badge/Small%20molecule%20binding%20associated%20PTMs-bioRxiv-blue" />
+  </a>
+</p>
 
 DrugDomain database [1] (http://prodata.swmed.edu/DrugDomain/) reports [ECOD](http://prodata.swmed.edu/ecod/index_af2_pdb.php) [2] domains of proteins that are targets for small molecules and drugs from [DrugBank](https://go.drugbank.com/)
 <img width="1085" alt="Screenshot 2024-12-26 at 4 39 22 PM" src="https://github.com/user-attachments/assets/a07a4f41-a121-484c-ad95-a882091fbb2a" />
