@@ -11,6 +11,10 @@
   <a href="https://doi.org/10.1101/2025.01.14.633078">
     <img src="https://img.shields.io/badge/Small%20molecule%20binding%20associated%20PTMs-bioRxiv-blue" />
   </a>
+  </br>
+  <a href="https://github.com/kirmedvedev/DrugDomain/blob/main/Tutorial.md">
+    <img src="https://img.shields.io/badge/Tutorial-red" />
+  </a>
 </p>
 
 DrugDomain database [1] (http://prodata.swmed.edu/DrugDomain/) reports [ECOD](http://prodata.swmed.edu/ecod/index_af2_pdb.php) [2] domains of proteins that are targets for small molecules and drugs from [DrugBank](https://go.drugbank.com/)
