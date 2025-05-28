@@ -8,8 +8,8 @@
     <img src="https://img.shields.io/badge/DrugDomain%20Paper-Protein%20Science-green" />
   </a>
 </br>
-  <a href="https://doi.org/10.1101/2025.01.14.633078">
-    <img src="https://img.shields.io/badge/Small%20molecule%20binding%20associated%20PTMs-bioRxiv-blue" />
+  <a href="https://doi.org/10.1186/s13321-025-01019-y">
+    <img src="https://img.shields.io/badge/Small%20molecule%20binding%20associated%20PTMs-J%20of%20Chemoinformatics-blue" />
   </a>
   </br>
   <a href="https://github.com/kirmedvedev/DrugDomain/blob/main/Tutorial.md">
