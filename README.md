@@ -17,11 +17,14 @@
   </a>
 </p>
 
-DrugDomain database [1] (http://prodata.swmed.edu/DrugDomain/) reports [ECOD](http://prodata.swmed.edu/ecod/index_af2_pdb.php) [2] domains of proteins that are targets for small molecules and drugs from [DrugBank](https://go.drugbank.com/)
-<img width="1085" alt="Screenshot 2024-12-26 at 4 39 22 PM" src="https://github.com/user-attachments/assets/a07a4f41-a121-484c-ad95-a882091fbb2a" />
+DrugDomain database v2.0 [1] (https://drugdomain.cs.ucf.edu/) reports:
+1. [ECOD](http://prodata.swmed.edu/ecod) [2] domains of proteins that are targets for small molecules and drugs (including all ligands from PDB)
+2. Small molecule binding-associated post-translational modifications (PTMs)
 
-DrugDomain database version 1.1, includes 5160 DrugBank molecules associated with 2573 human protein targets
-<img width="700" alt="Fig4" src="https://github.com/user-attachments/assets/64d00a19-1242-490b-8dd7-f853a5f9f5db" />
+DrugDomain database version 2.0, includes 43,023 UniProt accessioins, 174,545 PDB structures, 37,367 ligands from PDB, 7,561 DrugBank molecules
+
+<img width="1085" alt="Screenshot 2025-06-16 at 5 32 27 PM" src="https://github.com/user-attachments/assets/69f27fd9-603d-4987-a4f4-aca0986fdd67" />
+<img width="1085" alt="Screenshot 2024-12-26 at 4 39 22 PM" src="https://github.com/user-attachments/assets/a07a4f41-a121-484c-ad95-a882091fbb2a" />
 
 ## Small molecule binding-associated Post Translational Modifications (PTMs) [3]
 We identified PTMs within 10 Å of all atoms of each small molecule bound to all human proteins that have been analyzed and reported through the DrugDomain database. The overall non-redundant number of identified small molecule binding-associated PTMs is 6,131. This includes 30 types of PTMs (such as Phosphorylation, Ubiquitination, etc.) and 47 combinations of PTM and amino acid types (for example Phosphorylation of SER, Acetylation of LYS, etc.)
