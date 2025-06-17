@@ -18,7 +18,7 @@
 </p>
 
 DrugDomain database v2.0 [1] (https://drugdomain.cs.ucf.edu/) reports:
-1. [ECOD](http://prodata.swmed.edu/ecod) [2] domains of proteins that are targets for small molecules and drugs (including all ligands from PDB)
+1. [ECOD](http://prodata.swmed.edu/ecod) [2] domains of proteins that are targets for small molecules and drugs (including all ligands available in Protein Data Bank)
 2. Small molecule binding-associated post-translational modifications (PTMs)
 
 DrugDomain database version 2.0, includes 43,023 UniProt accessioins, 174,545 PDB structures, 37,367 ligands from PDB, 7,561 DrugBank molecules
