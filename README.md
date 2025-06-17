@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Small%20molecule%20binding%20associated%20PTMs-J%20of%20Chemoinformatics-blue" />
   </a>
   </br>
-  <a href="https://github.com/kirmedvedev/DrugDomain/blob/main/Tutorial.md">
+  <a href="https://github.com/kirmedvedev/DrugDomain/wiki/DrugDomain-database-Tutorial">
     <img src="https://img.shields.io/badge/Tutorial-red" />
   </a>
 </p>
