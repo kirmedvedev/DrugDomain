@@ -33,11 +33,14 @@ We identified PTMs within 10 Å of all atoms of each small molecule bound to all
 <b>Distribution of small molecule binding-associated PTMs types in ECOD architecture groups.</b> <b>(A)</b> Statistics for experimental PDB structures. <b>(B)</b> Statistics for AlphaFill models. Thickness of the lines shows the number of PTMs per ECOD A-group.
 
 ## Files
-<b>DrugDomain v1.0 (these files did not change in new version v1.1):</b></br>
-```/DrugDomain_data_for_download/DrugDomain_v1.0_data_PDBs_ECODv291.txt``` - domain annotations for all human proteins that are targets for small molecules and drugs from DrugBank and that have experimentally determined PDB structures
+<b>DrugDomain v2.0:</b></br>
+https://drugdomain.cs.ucf.edu/download/DrugDomain_v2.0_data_PDBs_ECODv292.txt - domain annotations for all Protein Data Bank structures containing ligands (small molecules or metal ions)
+
+<b>DrugDomain v1.0:</b></br>
+```/DrugDomain_data_for_download/DrugDomain_v1.0_data_PDBs_ECODv291.txt``` - domain annotations for all human proteins that are targets for small molecules and drugs from DrugBank and that have experimentally determined PDB structures </br>
 ```/DrugDomain_data_for_download/DrugDomain_v1.0_data_AlphaFill.txt``` - domain annotations for all human proteins that are targets for small molecules and drugs from DrugBank and that DO NOT have experimentally determined PDB structures
 
-<b>DrugDomain v1.1:</b></br>
+<b>PTMs data</b></br>
 ```/PTMs/PTMs_per_residue_with_ligs.txt``` - list of all identified small molecule binding-associated PTMs
 ```/PTMs/PTMs_pdb_structures_ECOD_domains_with_ligs.txt``` - domain annotations for identified small molecule binding-associated PTMs in PDB structures </br>
 ```/PTMs/PTMs_alphafill_models_ECOD_domains_with_ligs.txt``` - domain annotations for identified small molecule binding-associated PTMs in AlphaFill models </br>
