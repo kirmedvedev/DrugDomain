@@ -17,8 +17,8 @@
   </a>
 </p>
 
-DrugDomain database v2.0 [1] (https://drugdomain.cs.ucf.edu/) reports:
-1. [ECOD](http://prodata.swmed.edu/ecod) [2] domains of proteins that are targets for small molecules and drugs (including all ligands available in Protein Data Bank)
+DrugDomain database v2.0 [1,2] (https://drugdomain.cs.ucf.edu/) reports:
+1. [ECOD](http://prodata.swmed.edu/ecod) [3] domains of proteins that are targets for small molecules and drugs (including all ligands available in Protein Data Bank)
 2. Small molecule binding-associated post-translational modifications (PTMs)
 
 DrugDomain database version 2.0, includes 43,023 UniProt accessioins, 174,545 PDB structures, 37,367 ligands from PDB, 7,561 DrugBank molecules
@@ -26,7 +26,7 @@ DrugDomain database version 2.0, includes 43,023 UniProt accessioins, 174,545 PD
 <img width="1085" alt="Screenshot 2025-06-16 at 5 32 27 PM" src="https://github.com/user-attachments/assets/69f27fd9-603d-4987-a4f4-aca0986fdd67" />
 <img width="1085" alt="Screenshot 2024-12-26 at 4 39 22 PM" src="https://github.com/user-attachments/assets/a07a4f41-a121-484c-ad95-a882091fbb2a" />
 
-## Small molecule binding-associated Post Translational Modifications (PTMs) [3]
+## Small molecule binding-associated Post Translational Modifications (PTMs) [4]
 We identified PTMs within 10 Å of all atoms of each small molecule bound to all human proteins that have been analyzed and reported through the DrugDomain database. The overall non-redundant number of identified small molecule binding-associated PTMs is 6,131. This includes 30 types of PTMs (such as Phosphorylation, Ubiquitination, etc.) and 47 combinations of PTM and amino acid types (for example Phosphorylation of SER, Acetylation of LYS, etc.)
 
 <img width="900" alt="Fig1" src="https://github.com/user-attachments/assets/3a7b5b86-7546-4cc8-9b22-b0cc1e634229" /> <br>
@@ -50,5 +50,6 @@ https://drugdomain.cs.ucf.edu/download/DrugDomain_v2.0_data_PDBs_ECODv292.txt - 
 
 ## References
 1. Medvedev KE, Schaeffer RD, Grishin NV. DrugDomain: The evolutionary context of drugs and small molecules bound to domains. _Protein Science_. 2024, 33(8):e5116. https://doi.org/10.1002/pro.5116
-2. Schaeffer RD, Medvedev KE, Andreeva A, Chuguransky S, Lázaro-Pinto B, Zhang J, Cong Q, Bateman A, Grishin NV. ECOD: Integrating classifications of protein domains from experimental and predicted structures. _Nucleic Acids Research_. 2025, 53(D1): D411-D418. https://doi.org/10.1093/nar/gkae1029
-3. Medvedev KE, Schaeffer RD, Grishin NV. Leveraging AI to Explore Structural Contexts of Post-Translational Modifications in Drug Binding. _Journal of Chemoinformatics_. 2025, 17(1): 67. https://doi.org/10.1186/s13321-025-01019-y 
+2. Medvedev KE, Schaeffer RD, Grishin NV. DrugDomain 2.0: comprehensive database of protein domains-ligands/drugs interactions across the whole Protein Data Bank. _bioRxiv_. 2025, 2025.07.03.663025. https://doi.org/10.1101/2025.07.03.663025
+3. Schaeffer RD, Medvedev KE, Andreeva A, Chuguransky S, Lázaro-Pinto B, Zhang J, Cong Q, Bateman A, Grishin NV. ECOD: Integrating classifications of protein domains from experimental and predicted structures. _Nucleic Acids Research_. 2025, 53(D1): D411-D418. https://doi.org/10.1093/nar/gkae1029
+4. Medvedev KE, Schaeffer RD, Grishin NV. Leveraging AI to Explore Structural Contexts of Post-Translational Modifications in Drug Binding. _Journal of Chemoinformatics_. 2025, 17(1): 67. https://doi.org/10.1186/s13321-025-01019-y 
