@@ -5,7 +5,11 @@
 
 <p align="center">
   <a href="https://doi.org/10.1002/pro.5116">
-    <img src="https://img.shields.io/badge/DrugDomain%20Paper-Protein%20Science-green" />
+    <img src="https://img.shields.io/badge/DrugDomain%20v1.0-Protein%20Science-green" />
+  </a>
+  </br>
+  <a href="https://doi.org/10.1016/j.csbj.2025.09.018">
+    <img src="https://img.shields.io/badge/DrugDomain%20v2.0-CSBJ-green" />
   </a>
 </br>
   <a href="https://doi.org/10.1186/s13321-025-01019-y">
@@ -50,6 +54,6 @@ https://drugdomain.cs.ucf.edu/download/DrugDomain_v2.0_data_PDBs_ECODv292.txt - 
 
 ## References
 1. Medvedev KE, Schaeffer RD, Grishin NV. DrugDomain: The evolutionary context of drugs and small molecules bound to domains. _Protein Science_. 2024, 33(8):e5116. https://doi.org/10.1002/pro.5116
-2. Medvedev KE, Schaeffer RD, Grishin NV. DrugDomain 2.0: comprehensive database of protein domains-ligands/drugs interactions across the whole Protein Data Bank. _bioRxiv_. 2025, 2025.07.03.663025. https://doi.org/10.1101/2025.07.03.663025
+2. Medvedev KE, Schaeffer RD, Grishin NV. DrugDomain 2.0: comprehensive database of protein domains-ligands/drugs interactions across the whole Protein Data Bank. _Computational and Structural Biotechnology Journal_. 2025, 27: 4040-4047. https://doi.org/10.1016/j.csbj.2025.09.018
 3. Schaeffer RD, Medvedev KE, Andreeva A, Chuguransky S, Lázaro-Pinto B, Zhang J, Cong Q, Bateman A, Grishin NV. ECOD: Integrating classifications of protein domains from experimental and predicted structures. _Nucleic Acids Research_. 2025, 53(D1): D411-D418. https://doi.org/10.1093/nar/gkae1029
 4. Medvedev KE, Schaeffer RD, Grishin NV. Leveraging AI to Explore Structural Contexts of Post-Translational Modifications in Drug Binding. _Journal of Chemoinformatics_. 2025, 17(1): 67. https://doi.org/10.1186/s13321-025-01019-y 
